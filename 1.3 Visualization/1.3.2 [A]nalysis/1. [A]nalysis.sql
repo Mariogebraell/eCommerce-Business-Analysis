@@ -1,20 +1,3 @@
-/*
-Technical Requirements:
-
-We require a highly functional set of analysis sheets that will facilitate 
-analysis such that we can make substantial discovery of trends and
-metrics to assist with our day to day planning and decision making.
-The sheets must be rich in information at a glance before the user 
-has a requirement to start making selections on the sheet(s).
-
-The Analysis requirements will provide broad coverage of...
-* Sales & Profit performance
-* Business Impacts
-* Comparative Analysis
-* What If testing
-* Special Dates Analysis
-
-*/
 
 1:Dimension Data
 
