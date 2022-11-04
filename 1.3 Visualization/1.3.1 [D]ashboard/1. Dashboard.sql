@@ -1,27 +1,5 @@
 1:Dimension Data
 
-/*
-
-Technical Requirements:
-Dashboard Objects:
-Filters for user selection actions
-1. Calendar drill down by Year, Month, Day
-2. Sale Type
-Key Metrics requested for calculation and display
-1. Sales Total $ for today & yesterday i.e. Close of Business yesterday & day before
-2. Sales Profit $ for today & yesterday i.e. Close of Business yesterday & day before
-3. Order Count for today & yesterday i.e. Close of Business yesterday & day before
-Charts & Tables portraying specific metrics 
-1. Sales $ share by Product Category
-2. Sales $ share by Sale Type
-3. Global sales $ distribution
-4. Global profit $ distribution
-
-	
-    Load all dimension tables here first that do not require the fact table(s) ...
-
-*/
-
 Currency:
 LOAD
     CurrencyKey,
