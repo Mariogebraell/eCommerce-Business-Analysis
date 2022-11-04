@@ -24,40 +24,47 @@ presentation.
 
 
 #### Functional requirements
+
 * Filters for making selections
 * Clear selections easily
 * Switching between Sales and Profit on Maps
 
 #### Branding
+
 * Colourize the Sheet Title bar to company brand colour
 * Show corporate thumbnail image in Top RH Corner of title bar
 
 
 ### Requirements
 
-i. Sales & Profit performance
+* Sales & Profit performance
 
 ##### KPI's to highlight
-i. All Time Sales $ 
-ii. Current Year Sales
-ii. Previous Year Sales
-iiv. Difference between Current Year and Previous year sales
+
+* All Time Sales $ 
+* Current Year Sales
+* Previous Year Sales
+* Difference between Current Year and Previous year sales
 
 ##### Map (Geo - Layered)
-i. Show Sales by country (& Drill to City)
-Ii. Show Profit by country (& Drill to City)
-iiv. Switch between the 2 variables Sales & Profit
+
+* Show Sales by country (& Drill to City)
+* Show Profit by country (& Drill to City)
+* Switch between the 2 variables Sales & Profit
 
 ##### Cumulative Chart
-i. Sales $ & Profit $ showing Cumulative Sales $ & Profit $ all over years
+
+* Sales $ & Profit $ showing Cumulative Sales $ & Profit $ all over years
 
 ##### Charts of 4 group
-a) showing US Specific Sales $ and Profit 
-b) showing US Specific Sales $ and Order Count
-c) showing rest of world Sales $ and Profit 
-d) showing rest of world Sales $ and Order Count 
+
+* showing US Specific Sales $ and Profit 
+* showing US Specific Sales $ and Order Count
+* showing rest of world Sales $ and Profit 
+* showing rest of world Sales $ and Order Count 
 
 ##### Ranking
-i. Top 10 best selling products
-ii. Top 10 best selling cities
-iiv. Show % share of sales to overall sales for both i. & ii
+
+* Top 10 best selling products
+* Top 10 best selling cities
+* Show % share of sales to overall sales for both i. & ii
