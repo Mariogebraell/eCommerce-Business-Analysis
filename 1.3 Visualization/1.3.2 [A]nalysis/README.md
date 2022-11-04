@@ -33,7 +33,8 @@ presentation.
 * Show corporate thumbnail image in Top RH Corner of title bar
 
 
-### Technical Requirements
+### Requirements
+
 i. Sales & Profit performance
 
 ### KPI's to highlight
