@@ -49,7 +49,8 @@ iiv. Switch between the 2 variables Sales & Profit
 
 ### Cumulative Chart
 i. Sales $ & Profit $ showing Cumulative Sales $ & Profit $ all over years
-# Charts of 4 group
+
+### Charts of 4 group
 a) showing US Specific Sales $ and Profit 
 b) showing US Specific Sales $ and Order Count
 c) showing rest of world Sales $ and Profit 
